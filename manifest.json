@@ -1,7 +1,7 @@
 {
-    "name": "Template",
+    "name": "AOUutils Utilities",
     "version": "1.0.0",
-    "description": "PC Plugin Template",
-    "author": "y/n",
-    "license": "DBAD"
+    "description": "A bunch of utilities for All Of Us Utilities",
+    "author": "The AOUutils team",
+    "license": "None"
 }
