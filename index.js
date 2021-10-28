@@ -16,10 +16,7 @@ module.exports = class AOUUutilities extends Plugin {
             }
             },
             autocomplete: (args) => {
-                if (args[1] === void 0) {
-                    return false;
-                }
-                if (args[2] === void 0) {
+                if (args[1] !== void 0) {
                     return {
                         header: 'reasons',
                         commands: [
